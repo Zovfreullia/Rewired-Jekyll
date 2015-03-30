@@ -1,7 +1,7 @@
 ---
 layout: default
 title: WEEK 1
-subtitle: BLEND the LEARNING
+subtitle: BLEND the LEARNING!!!
 desc: Learn the what, how, where, and why of blended learning.
 img: table_blend.png
 categories: buttons

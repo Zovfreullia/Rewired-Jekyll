@@ -1,9 +1,7 @@
 # Rewired-Jekyll
-![shields.io](https://img.shields.io/badge/mit-license-brightgreen.svg)
-
-  <a href="https://www.ruby-lang.org/en/downloads/">
-        <img src="https://img.shields.io/badge/ruby-2.0.0-red.svg"
-             alt="ruby version">
+![shields.io](
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/mit-license-brightgreen.svg" alt="mit license">
+<a href="https://www.ruby-lang.org/en/downloads/"><img src="https://img.shields.io/badge/ruby-2.0.0-red.svg" alt="ruby version">
 
 
 This is a Jekyll version of the website reWired by CCNMTL: http://ccnmtl.columbia.edu/events/websites/rewired_f14/

@@ -1,5 +1,5 @@
 # Rewired-Jekyll
-![shields.io](
+
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/mit-license-brightgreen.svg" alt="mit license">
 <a href="https://www.ruby-lang.org/en/downloads/"><img src="https://img.shields.io/badge/ruby-2.0.0-red.svg" alt="ruby version">
 

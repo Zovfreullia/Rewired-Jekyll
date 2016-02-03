@@ -22,10 +22,4 @@ categories: carousel
 ---
 ```
 
-#### [Requirements](http://jekyllrb.com/docs/installation/)
 
-* [Ruby](https://www.ruby-lang.org/en/downloads/)
-* [Ruby Gems](https://rubygems.org/pages/download) A note on ruby gems and gh-pages. 
-  If you also want to push your site to gh-pages, make sure you add the [gh-page gem](http://jekyllrb.com/docs/github-pages/). 
-* Linux, Unix, or Mac OS X
-* [NodeJS](https://nodejs.org)
